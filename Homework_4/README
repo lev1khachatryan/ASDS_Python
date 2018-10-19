@@ -1,0 +1,3 @@
+Simple calculator application made in Python so that I could learn the basics of tokenizing, parsing and interpreting.
+The calculator can do the basic arithmetic operations (+,-,*/,%,^) and calculate sin, cos, ln You can also use variables in it.
+Simplest way to use it is to run the repl.py, which is a REPL for the calculator.
